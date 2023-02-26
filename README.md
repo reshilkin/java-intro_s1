@@ -1,6 +1,6 @@
 ## Домашние работы к курсу «Введение в программирование»
 
-[Условия домашних заданий](http://www.kgeorgiy.info/courses/prog-intro/homeworks.html)
+[Условия домашних заданий](https://web.archive.org/web/20220705034247/http://www.kgeorgiy.info/courses/prog-intro/homeworks.html)
 
 [Домашнее задание 13. Обработка ошибок]
 ----
